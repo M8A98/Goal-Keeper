@@ -1,4 +1,4 @@
-# GOAL KEEPER SMAL EXERCISE
+# GOAL KEEPER SMALL EXERCISE
 
 A small exercise about DOM´s manipulation.
 
